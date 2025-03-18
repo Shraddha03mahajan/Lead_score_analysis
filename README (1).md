@@ -12,14 +12,7 @@ writing emails, etc. Through this process, some of the leads get converted while
 1. To identify the features that contributes to predict Lead Conversion. 
 2. Identifying Hot Leads by generating Lead Score for all leads, so that leads having higher Lead Scores can be contacted with priority for achieving Higher Lead Conversion Rate.
 
-## Approach taken:
+Business Objective
 
-https://github.com/anikch/Lead-Scoring-Case-Study/blob/main/Summary%20Report%20-%20Lead%20Scoring%20Case%20Study.pdf
+Lead X wants us to build a model to give every lead a lead score between 0 -100 . So that they can identify the Hot leads and increase their conversion rate as well. The CEO want to achieve a lead conversion rate of 80%. They want the model to be able to handle future constraints as well like Peak time actions required, how to utilize full man power and after achieving target what should be the approaches.
 
-## Analysis, Model Building, Conclusion and Reccomendation:
-
-https://github.com/anikch/Lead-Scoring-Case-Study/blob/main/Lead%20Scoring%20Case%20Study.pdf
-
-## Jupyter Notebook:
-
-https://github.com/anikch/Lead-Scoring-Case-Study/blob/main/Lead%20Scoring%20Case%20Study.ipynb
